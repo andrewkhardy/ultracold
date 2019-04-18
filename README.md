@@ -1,5 +1,5 @@
 # ultracold
-A PHY479 final project to exert power control over a laser cooling system. the system consisted of a chipKIT uC32 and an AD5780 Evaluation Board Digital to analog converter. 
+A PHY479 final project to exert power control over a laser cooling system. the system consisted of a chipKIT uC32 and an AD5780 Evaluation Board Digital to Analog converter. 
 The two programs, ADC.ino and DACv3.ino serve to do the ADC & PID, followed by the DAC SPI output. The DAC uses these drivers
 https://wiki.analog.com/resources/tools-software/uc-drivers/renesas/ad5780
 
